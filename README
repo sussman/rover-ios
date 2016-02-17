@@ -1,1 +1,9 @@
-This project is a combination of two subprojects: glulxe and iosglk.
+
+This is a port of Rover's Day Out -- an interactive fiction game
+written in Inform 7 -- to a native iOS app.
+
+99% of the work was done by Andrew Plotkin, who created the entire
+app framework (glulxe and glk port) to iOS; see his 'iosglulxe'
+project.  This project is a deliberate fork of that project, exactly
+as he intended folks to do.
+
