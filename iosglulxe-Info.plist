@@ -37,7 +37,7 @@
 		<string>Icon-60@2x.png</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.eblong.iosglulxetest</string>
+	<string>com.red-bean.rover</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
