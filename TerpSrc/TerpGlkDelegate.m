@@ -251,10 +251,10 @@
 		
 		CGFloat statusfontsize;
 		if (isiphone) {
-			statusfontsize = 9+self.fontscale;
+			statusfontsize = 7+self.fontscale;
 		}
 		else {
-			statusfontsize = 11+self.fontscale;
+			statusfontsize = 9+self.fontscale;
 		}
 		
 		FontVariants variants = [StyleSet fontVariantsForSize:statusfontsize name:@"Courier", nil];
